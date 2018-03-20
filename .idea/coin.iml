@@ -8,6 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Coinigy_api" />
+    <orderEntry type="module" module-name="learning_machine_learning" />
+    <orderEntry type="module" module-name="intro_machine_learning" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
